@@ -187,7 +187,7 @@
   #show image: block.with(radius: 2pt, stroke: blue, clip: true)
 
   #cell[
-    1. Beautiful Themes and Simple Customization
+    4. Beautiful Themes and Simple Customization
   ][
     #grid(
       columns: (1fr,) * 4,
