@@ -149,7 +149,7 @@
     #rect(width: 100%, height: 42pt, fill: white, stroke: blue, radius: 3pt)[
       #set text(7pt)
 
-      = Layout
+      = Programming
 
       #set text(12pt)
 
