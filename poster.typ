@@ -95,7 +95,7 @@
 
         #line(length: 100%, stroke: black)
 
-        Text for the first slide.
+        Text for the second slide.
       ]
     ]
   ]
@@ -224,6 +224,6 @@
 
 #set text(9pt)
 
-MIT License #sym.copyright 2024
+MIT License #sym.copyright 2026
 #h(1fr)
 #octique-inline("mark-github", baseline: 1pt) https://github.com/touying-typ/touying
